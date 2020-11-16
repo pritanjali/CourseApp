@@ -1,6 +1,4 @@
-# CourseApp
-
-#About
+About
 This project is about a simple API that implements an academic class registration system with REST endpoints.
 
 Features:
