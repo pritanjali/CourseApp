@@ -1,0 +1,21 @@
+# Java #
+
+*/war/WEB-INF/classes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Maven #
+
+*target/
+
+# IntelliJ #
+*.iml
+*.idea/
+*.idea/*
+
+# JDT-specific (Eclipse Java Development Tools)
+*.classpath
